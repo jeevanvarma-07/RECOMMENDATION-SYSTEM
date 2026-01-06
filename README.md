@@ -92,3 +92,11 @@ Task-4 sought to develop and apply a **Recommendation System using Collaborative
  Utilizing Python, Pandas, and Scikit-learn, this effort shows how effectively a **Collaborative Filtering-based Recommendation System** can be implemented. By looking at user similarity and rating behavior, the system effectively creates customized suggestions. The project includes all crucial phases: dataset preparation, matrix construction, similarity calculation, recommendation generating, and evaluation. 
  
  The execution fulfills all the standards of **Task-4 of the CODTECH internship** and offers a solid conceptual basis for more sophisticated recommendation systems like hybrid recommendation systems, content-based filtering, or matrix factorization.
+
+ ##OUTPUT:
+
+ <img width="487" height="395" alt="Image" src="https://github.com/user-attachments/assets/95d9e234-0bef-4a14-b2cf-ff2ebde34051" />
+<img width="625" height="221" alt="Image" src="https://github.com/user-attachments/assets/92ef1d42-070b-424f-991c-329623e355c3" />
+<img width="402" height="223" alt="Image" src="https://github.com/user-attachments/assets/5fce0658-5358-4ed7-a1ea-4b768d630efd" />
+<img width="412" height="231" alt="Image" src="https://github.com/user-attachments/assets/deca04a3-b8ff-4dc6-a9ca-52dc2b1d2994" />
+<img width="306" height="364" alt="Image" src="https://github.com/user-attachments/assets/9edc4855-6ce7-4ab6-9759-a537f8d73826" />
