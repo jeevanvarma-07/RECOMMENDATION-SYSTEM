@@ -1,16 +1,6 @@
 # RECOMMENDATION-SYSTEM
 
-*COMPANY*: CODTECH IT SOLUTIONS
 
-*NAME*: JEEVAN VARMA
-
-*INTERN ID*: CT04DR2749
-
-*DOMAIN*: MACHINE LEARNING
-
-*DURATION*: 4 WEEKS
-
-*MENTOR*: NEELA SANTOSH
 
 Task-4 sought to develop and apply a **Recommendation System using Collaborative Filtering methods. Modern digital platforms like Netflix, Amazon, YouTube, and Spotify depend on suggestion systems to customize material and increase audience participation. Rather than depending just on product characteristics, this project centers on creating a system that suggests items to consumers depending on the likes and actions of other comparable people. 
  
